@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="w-screen min-h-screen item-center justify-center flex flex-col">
 
-      <div className="text-center p-4 bg-white text-black font-bold text 2x1 rounded-xl">
+      <div className="text-center p-4 bg-black text-white font-bold text 2x1 rounded-xl">
 
         Loja Esport
 
